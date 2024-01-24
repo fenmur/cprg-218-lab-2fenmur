@@ -92,13 +92,11 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
-
 ### Strawberry Rainbow Brownies
-
-Ingredients:
 
 ### Brownie Base:
 
+Ingredients:
 - 1 cup melted unsalted butter
 - 2 cups granulated sugar
 - 4 large eggs
@@ -110,11 +108,13 @@ Ingredients:
 
 ### Strawberry Swirl:
 
+Ingredients:
 - 1 cup chopped fresh strawberries
 - 2 tbsp granulated sugar
 
 ### Rainbow Topping:
 
+Ingredients:
 - Whipped cream or vanilla frosting
 - Food coloring (red, orange, yellow, green, blue, purple)
 
