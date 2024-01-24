@@ -92,7 +92,40 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
-### Chocolate Chip Cookies
+
+### Strawberry Rainbow Brownies
+
+Ingredients:
+
+### Brownie Base:
+
+- 1 cup melted unsalted butter
+- 2 cups granulated sugar
+- 4 large eggs
+- 1 tsp vanilla extract
+- 1 cup all-purpose flour
+- 1/2 cup cocoa powder
+- 1/2 tsp baking powder
+- 1/4 tsp salt
+
+### Strawberry Swirl:
+
+- 1 cup chopped fresh strawberries
+- 2 tbsp granulated sugar
+
+### Rainbow Topping:
+
+- Whipped cream or vanilla frosting
+- Food coloring (red, orange, yellow, green, blue, purple)
+
+Instructions:
+1. Preheat Oven: Preheat to 350°F (175°C). Grease and line a square baking pan.
+2. Prepare Brownie Base: Mix melted butter, sugar, eggs, and vanilla. Add flour, cocoa powder, baking powder, and salt. Combine.
+3. Prepare Strawberry Swirl: Blend strawberries with 2 tbsp sugar. Swirl into brownie batter.
+4. Bake: Pour batter into the pan. Bake for 25-30 minutes until a toothpick comes out with moist crumbs.
+5. Create Rainbow Topping: Divide whipped cream/frosting. Add food coloring for the rainbow colors.
+
+### Chocolate Chip Cookies 
 
 Ingredients:
 - 2 1/4 cups all-purpose flour
