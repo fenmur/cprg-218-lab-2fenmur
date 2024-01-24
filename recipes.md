@@ -76,12 +76,15 @@ Instructions:
 Ingredients:
 - 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
+- 1 tablespoon of sweet chili powder
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
 - Lettuce
 - Tomato
 - Mayonnaise
+- Honey Mustard
+
 
 Instructions:
 1. Preheat grill to medium-high heat.
